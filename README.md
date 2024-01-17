@@ -13,7 +13,7 @@ Frontend projects using HTML, CSS, and JS
         <td>
             <ul style="margin-left:0; padding-left:0; padding-right:3em">
                 <li>
-                    <a href="Guess_My_Number\index.html">Guess My Number</a>
+                    <a href="JavaScript_Drum_Kit\index.html">Drum Kit</a>
                 </li>
             </ul>
         </td>

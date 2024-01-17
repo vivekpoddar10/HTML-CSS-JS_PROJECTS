@@ -1,0 +1,41 @@
+#keys{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    align-content: center;
+    width: 100%;
+    height: 40rem;
+}
+
+.key {
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.sound{
+    font-size: 10px;
+}
+
+span{
+    color: yellow;
+}
+
+.playing{
+    border-color:  yellow;
+    transform:scale(1.2);
+    box-shadow: 0 0 10px yellow;
+}
+
+html{
+    background-image: url('background.jpg');
+}

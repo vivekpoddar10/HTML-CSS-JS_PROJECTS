@@ -1,0 +1,15 @@
+:root{
+    --spacing:1px;
+    --blur:0px;
+    --colorPick:#ffc600;
+}
+
+img{
+    padding: var(--spacing);
+    filter: blur(var(--blur));
+    background: var(--colorPick);
+}
+
+span{
+    color: var(--colorPick);
+}

@@ -12,4 +12,5 @@ const handleChange = function(input) {
     })
 }
 
+
 inputs.forEach(input => handleChange(input));
